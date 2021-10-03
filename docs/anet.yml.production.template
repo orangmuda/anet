@@ -15,7 +15,7 @@ developmentMode: false
 
 # Settings for the SMTP server to send email 
 smtp:
-  hostname: MSRHQEX7
+  hostname: PRIVATE
   port: 25
 #  username:
 #  password:
@@ -55,7 +55,7 @@ database:
 # configuration with SQL Authentication
 #database:
 #  driverClass: com.microsoft.sqlserver.jdbc.SQLServerDriver
-#  url: jdbc:sqlserver://MSRHQSQLANET01:1433;databaseName=ANET
+#  url: jdbc:sqlserver://REDACTED:1433;databaseName=PRIVATE
 #  user: 
 #  password:
 
